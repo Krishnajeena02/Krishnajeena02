@@ -7,13 +7,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Developer-00E5FF?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-Developer-FCC624?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neact.js-Developer-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/react.js-Developer-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 ---
 
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -26,7 +24,7 @@
 
 ---
 
-## 🧠 Tech Stack (With Labels)
+## 🧠 Tech Stack
 
 ### 🔹 Languages
 | Java | JavaScript |
@@ -43,6 +41,23 @@
 |--------|---------|----------|
 | <img src="https://skillicons.dev/icons?i=nodejs" width="48"/> | <img src="https://skillicons.dev/icons?i=express" width="48"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="48"/> |
 
+---
+
+## 🌀 Motion & Animation Tools (Special Skills)
+
+<p align="center">
+  <img src="https://github.com/krishnadevzpro/gsap-animated-logo/blob/main/gsap.gif" width="90" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/robbobfrh84/fm-logo-animated/main/framer-motion.gif" width="90" />
+</p>
+
+<p align="center">
+  <b>GSAP</b> • Smooth Animations • ScrollTrigger • Timeline Control  
+  <br/>
+  <b>Framer Motion</b> • Gestures • Variants • Page Transitions • Parallax Effects
+</p>
+
+---
 ### 🔹 Tools
 | Git | GitHub | VS Code | Postman |
 |-----|--------|---------|---------|
@@ -52,17 +67,11 @@
 
 ## 🌟 Featured Projects (Premium Cards)
 
-> 🚀 **Send me your project GitHub links and I will convert them into clickable premium cards.**
+
 
 <table>
 <tr>
-<td width="50%">
-  
-### 🎧 PahadiFlix Music App  
-Offline music • Pahadi songs • Playlists  
-**Tech:** MERN + Tailwind + Redux  
 
-</td>
 <td width="50%">
 
 ### 📱 Social Media Dashboard  
@@ -74,13 +83,7 @@ Posts • Likes • Comments • Media uploads
 
 <tr></tr>
 
-<td width="50%">
-  
-### 🔔 DSA Reminder App  
-Streaks • Daily tasks • JWT Auth  
-**Tech:** MERN  
 
-</td>
 
 <td width="50%">
 
@@ -94,31 +97,6 @@ Animated • Premium UI • Contact form backend
 
 ---
 
-## 📊 GitHub Analytics (Premium Look)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnasinghjeena&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasinghjeena&theme=radical&hide_border=true" height="160" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnasinghjeena&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krishnasinghjeena/krishnasinghjeena/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🛣️ Developer Journey (Timeline)
 
 
